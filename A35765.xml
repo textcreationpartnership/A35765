@@ -1,0 +1,594 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Description of the ceremonial proceedings at the coronation of Their most illustrious, serene, and sacred Majesties, King James II and his royal consort Queen Mary who where [sic] crowned at Westminster-abby, on Thursday the 23th. of April, 1685.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35765</idno>
+            <idno type="STC">Wing D1154</idno>
+            <idno type="STC">ESTC R41093</idno>
+            <idno type="EEBO-CITATION">19618916</idno>
+            <idno type="OCLC">ocm 19618916</idno>
+            <idno type="VID">109209</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109209)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1685:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Description of the ceremonial proceedings at the coronation of Their most illustrious, serene, and sacred Majesties, King James II and his royal consort Queen Mary who where [sic] crowned at Westminster-abby, on Thursday the 23th. of April, 1685.</title>
+               </titleStmt>
+               <extent>1 broadside : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by Authority."</note>
+                  <note>Imperfect: creased with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Coronation.</term>
+               <term>Mary, --  of Modena, Queen, consort of James II, King of England, 1658-1718 --  Coronation.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:109209:1"/>
+            <head>A Deſcription of the Ceremonial Proceedings at the Coronation of their Moſt Illuſtrious, Serene, and Sacred Majeſties; King JAMES II. and his Royal Conſort Queen MARY, Who where Crowned at <hi>Weſtminſter-Abby,</hi> on <hi>Thurſday</hi> the <hi>23th.</hi> of <hi>April,</hi> 1685.</head>
+            <figure/>
+            <p>UPon the <hi>23th.</hi> of <hi>April,</hi> being St. <hi>George's</hi> day between 9 or 10 in the morning, the King and Queen took water from the Privy Stairs at <hi>White-Hall,</hi> and land<g ref="char:EOLhyphen"/>ed at the Parliament Stairs, from whence he went up to the Princes Lodgings; where, after he had repoſed himſelf he was arrayed in Royal Robes of Crimſon velvet ſurr'd with Ermine, by which time the Nobility, being come together Robed themſelves in the Lords Houſe and Painted Chamber.</p>
+            <p>The Judges alſo with thoſe of the long Robe, the Knights of the Bath (then in their Robes of Purpel Sattin lined with <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Taffaty) and Gentlemen of the Privy Chamber, met in the Court of Requeſts, and being drawn down into <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> Hall, where this great ſolemnity (ordered by the Officers at Arms) began. The Nobilty, in their proper habits carrying their Coronets in their hands proceeded accor<g ref="char:EOLhyphen"/>ding to their ſeveral dignities and degrees, before His Majeſty up to his Throne of State, which was rais'd at the Weſt end of the Hall, placing themſelves upon each ſide thereof.</p>
+            <p>The King being ſet in a rich Chair under a Glorious Cloth of ſtate, the Maſter of the Jewel Houſe preſented the Sword of State, as alſo the Sword called <hi>Curtana,</hi> and two other Swords, to the Lord high Conſtable who took and delivered them to the Lord high Chamberlain and he laid them upon the Table before the King, and in the like manner the Spurs. Im<g ref="char:EOLhyphen"/>mediately after, the Dean and Prebends of <hi>Westminster,</hi> by whom the <hi>Regalia</hi> had been brought in Proceſſion from the Abby to <hi>Westminster-Hall,</hi> being veſted in rich Copes, came up from the lower end thereof in manner following.
+<list>
+                  <item>Firſt <hi>the Serjeant of the Vestry in a Scarlet Mantle.</hi>
+                  </item>
+                  <item>
+                     <hi>The Children of the Kings Chappel in Scarlet Mantles.</hi>
+                  </item>
+                  <item>
+                     <hi>Then the Quire of</hi> Weſt<g ref="char:EOLhyphen"/>minſter <hi>in Surplices.</hi>
+                  </item>
+                  <item>
+                     <hi>The Gentlemen of the Kings Chappel in Scarlet Mantles.</hi>
+                  </item>
+                  <item>
+                     <hi>The Purſuivants, Heraids and Provincial Kings of Arms.</hi>
+                  </item>
+                  <item>
+                     <hi>Then the Biſhop carrying <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> Edwards <hi>Crown.</hi>
+                  </item>
+                  <item>
+                     <hi>And after him five of the Prebends of that Church.</hi>
+                  </item>
+                  <item>
+                     <hi>The first carrying the Scep<g ref="char:EOLhyphen"/>ter with the Croſs.</hi>
+                  </item>
+                  <item>
+                     <hi>The ſecond the Scepter with the Dove.</hi>
+                  </item>
+                  <item>
+                     <hi>The third the</hi> Orb <hi>with the Croſs.</hi>
+                  </item>
+                  <item>
+                     <hi>The fourth King</hi> Edwards <hi>Staff.</hi>
+                  </item>
+                  <item>
+                     <hi>The fifth the Chalice and Curtana.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Who paſſing thus through the Hall, and making their <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Reverence's in three places, and towards the upper end, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Quires and Officers at Arms falling off each ſide, the can and Prebends aſcended the Steps at the top whereof <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rter Principal King of Arms ſtanding, conducted them <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Table placed before the Throne, where they having made their laſt Reverence, the Dean firſt preſented the Crown, which was by the Lord high Conſtable, and Lord Great Chamberlain, ſet upon the Table, who likewiſe re<g ref="char:EOLhyphen"/>ceived from the Prebends the <hi>Regalia,</hi> which they carried, and ſaid them alſo by the Crown.</p>
+            <p>Then the Lord Great Chamberlain preſenting the <hi>Regalia</hi> ſeverally to the King His Majeſty <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of them to the Noble Men which carried them in the Proceeding
+<list>
+                  <item>
+                     <hi>The</hi> Queens <hi>Ivory red to the Ear of</hi> Dorſet</item>
+                  <item>
+                     <hi>The</hi> Queens <hi>Scepter to the Earl of</hi> Rut<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd.</item>
+                  <item>
+                     <hi>The</hi> Queens <hi>Crown to the Duke of</hi> Beaufort.</item>
+                  <item>
+                     <hi>Saint</hi> Edwards <hi>Staff to the Earl of</hi> Ailsbury.</item>
+                  <item>
+                     <hi>The Spurs to the Lord</hi> de Grey.</item>
+                  <item>
+                     <hi>The Scepter with the</hi> Croſs <hi>to the Earl of</hi> Peterborow.</item>
+                  <item>
+                     <hi>The Third Sword to the Earl</hi> Pembro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </item>
+                  <item>
+                     <hi>The <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Quires to the Earl <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> bear<g ref="char:EOLhyphen"/>ing</hi> Curta<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>or the <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Sword.</hi>
+                  </item>
+                  <item>
+                     <hi>The Sword of State to the Earl of</hi> Oxford.</item>
+                  <item>
+                     <hi>St.</hi> Edwards <hi>Crown to the Duke of</hi> Ormond.</item>
+                  <item>
+                     <hi>The</hi> Orb <hi>with the Croſs, to the Duke of</hi> Somerſet.</item>
+                  <item>
+                     <hi>The Scepter with the Dove to the Duke of</hi> Albemarle.</item>
+               </list>
+            </p>
+            <p>All things being thus prepared about 11 a Clock the pro<g ref="char:EOLhyphen"/>ceeding began, from the Hall into the Palace Yard, through the Gate Houſe along the great Sanctuary to the Weſt end of the Abby, upon Blew Cloath, which was ſpread upon the ground from the Throne in <hi>Weſtminſter</hi> Hall, to the great ſteps in the Church.</p>
+            <p>
+               <hi>The proceeding to the CORONATION was in this following Order.</hi>
+               <list>
+                  <item>Firſt 4 <hi>Drums,</hi>
+                  </item>
+                  <item>16 <hi>Trumpets,</hi>
+                  </item>
+                  <item>6 <hi>Clerks of Chancery,</hi>
+                  </item>
+                  <item>
+                     <hi>Chaplains, having Dignities</hi>
+                  </item>
+                  <item>
+                     <hi>Aldermen of</hi> London,</item>
+                  <item>
+                     <hi>Maſter in</hi> Chancery,</item>
+                  <item>
+                     <hi>The King's Sergeants at Law</hi>
+                  </item>
+                  <item>
+                     <hi>The King's Solicitor,</hi>
+                  </item>
+                  <item>
+                     <hi>The Kings Attorney,</hi>
+                  </item>
+                  <item>
+                     <hi>The Kings</hi> 2 <hi>Ancient Serg.</hi>
+                  </item>
+                  <item>
+                     <hi>Eſquires of the Body,</hi>
+                  </item>
+                  <item>
+                     <hi>Maſters of Requeſt,</hi>
+                  </item>
+                  <item>
+                     <hi>Gentlemen of the Privy Cha.</hi>
+                  </item>
+                  <item>
+                     <hi>Counſel at Law,</hi>
+                  </item>
+                  <item>
+                     <hi>Barons of the Exchequer,</hi>
+                  </item>
+                  <item>
+                     <hi>Judges of both Benches,</hi>
+                  </item>
+                  <item>
+                     <hi>Lord Chief Baron,</hi>
+                  </item>
+                  <item>
+                     <hi>Lord Chief Juſtice of the</hi> Common-Pleas.</item>
+                  <item>
+                     <hi>Maſters of the Rolls,</hi>
+                  </item>
+                  <item>
+                     <hi>Lord Chief Justice of the</hi> King's Bench.</item>
+                  <item>
+                     <hi>Children of the Chappel.</hi>
+                  </item>
+                  <item>
+                     <hi>The Choir of</hi> Weſtminſter.</item>
+                  <item>
+                     <hi>Gentlemen of the Chappel,</hi>
+                  </item>
+                  <item>
+                     <hi>Prebends of</hi> Weſtminſter,</item>
+                  <item>
+                     <hi>Maſter of the Jewel-Houſe.</hi>
+                  </item>
+                  <item>
+                     <hi>Knights Privy-Councillors.</hi>
+                  </item>
+                  <item>2 Purſivants of Arms.</item>
+                  <item>
+                     <hi>Baroneſſes in their Order,</hi>
+                  </item>
+                  <item>
+                     <hi>Barons in their Order,</hi>
+                  </item>
+                  <item>
+                     <hi>Biſhops in their Order,</hi>
+                  </item>
+                  <item>2 Purſivants of Arms</item>
+                  <item>
+                     <hi>Vice-Counteſſes in their Order</hi>
+                  </item>
+                  <item>
+                     <hi>Vicounts in their Order.</hi>
+                  </item>
+                  <item>2 Heralds of Arms.</item>
+                  <item>
+                     <hi>Counteſſes in their Order,</hi>
+                  </item>
+                  <item>
+                     <hi>Earls in their Order,</hi>
+                  </item>
+                  <item>2 Heralds of Arms.</item>
+                  <item>
+                     <hi>Marchtoneſſes in their Order.</hi>
+                  </item>
+               </list>
+            </p>
+            <lg>
+               <head>THE ROYAL TRANSIT.</head>
+               <l>WHen Time (in Triumph did make way</l>
+               <l>To <hi>JAMES</hi> His Coronation Day,</l>
+               <l>His <hi>Queen</hi> firſt (like an Angel) came</l>
+               <l>Attended with her Anagram</l>
+               <l>O leſſer Lights, which ſcarce drew Nigh,</l>
+               <l>For 'cl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of her Majeſty.</l>
+               <l>The Day at firſt which gave her Birth,</l>
+               <l>Gave likewiſe vent unto her Worth.</l>
+               <l>And Time and Fortune both did pley</l>
+               <l>The Tropick of <hi>Hyperbole.</hi>
+               </l>
+               <l>She was ſo Proper and Compleat,</l>
+               <l>That (as ſhe walk'd along the Street)</l>
+               <l>Her Gate made all Beholders Gaze,</l>
+               <l>And pay a Tribute to her Praiſe:</l>
+               <l>She was the Kingdoms comely Bride,</l>
+               <l>Deck'd with the Church on every ſide:</l>
+               <l>So Handſome, that all other Ladies,</l>
+               <l>(Her Subſequents ſeem'd but her Shaddows:</l>
+               <l>Her Beauty with her bright Array</l>
+               <l>Did antedate the Flowers in <hi>May;</hi>
+               </l>
+               <l>Yet all the Splendor of her Face</l>
+               <l>Was but the Rays of inward Grace,</l>
+               <l>Tho <hi>Via Lactea</hi> did uncloſe</l>
+               <l>The Scarlet Skie within a Roſe.</l>
+               <l>Then <hi>Juno</hi> (with her Jealous Eyes)</l>
+               <l>Look'd through her Spangled Canopies;</l>
+               <l>And ſent her waiting Maid to try</l>
+               <l>What <hi>Goddeſs</hi> ſtrove for Deity,</l>
+               <l>The <hi>Moon</hi> Roſe from her Watry Bed</l>
+               <l>With Laces, Rings, and Pendants; clad</l>
+               <l>In Robes, as ſhe had been to Sway</l>
+               <l>The Glorious Scepter of the Day;</l>
+               <l>And tripping (when ſhe chang'd her Gown)</l>
+               <l>She to the Horizon came down,</l>
+               <l>And Dazled, peep'd with half her Eye</l>
+               <l>Out through the Window of her Skie;</l>
+               <l>Thinking (to borrow to her Night)</l>
+               <l>The Beams that darted from her Light;</l>
+               <l>But when ſhe found that every Day</l>
+               <l>
+                  <hi>MARIA</hi> did her <hi>M.</hi> pay,</l>
+               <l>Bright <hi>Cynthia</hi> did the Triumph Bleſs,</l>
+               <l>And prais'd her by <hi>Periphraſis:</hi>
+               </l>
+               <l>Exhorting all her neighbour Stars</l>
+               <l>Not to moleſt her Reign with Jarrs.</l>
+               <l>Then (in the twinkling of an Eye)</l>
+               <l>She fill'd the Orb of Majeſty.</l>
+               <l>And yet the <hi>Plenelunium</hi>-bleſs</l>
+               <l>Made no ſtrange <hi>Metamorphoſis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And then the <hi>Engliſh</hi> Peers paſs'd by,</l>
+               <l>(As Beams before <hi>His Majesty</hi>)</l>
+               <l>And Admiration thus did Gaze</l>
+               <l>'Twixt <hi>James</hi> his Crown and <hi>Charles</hi>'s Bayes;</l>
+               <l>The Dancing <hi>Spheers</hi> turn'd round to ſee</l>
+               <l>What caus'd ſuch great Solemnity:</l>
+               <l>And <hi>Jove</hi> came Thundering through Air,</l>
+               <l>To ſee if <hi>Archimed</hi> was there;</l>
+               <l>And <hi>Orion</hi> was put to Chaſe,</l>
+               <l>By the Succeſsful <hi>Pleiades,</hi>
+               </l>
+               <l>Who kindly came and did commence</l>
+               <l>A ſweet Succeſsful Influence.</l>
+               <l>I lent mine Ear, and heard them Sing</l>
+               <l>A <hi>Simphonia</hi> to the <hi>King:</hi>
+               </l>
+               <l>And every Fiſh from Shrimp to Whales</l>
+               <l>Danc'd Jiggs, and plaid them with their Tails</l>
+               <l>Then <hi>Sagittarius</hi> Bent his Bow</l>
+               <l>To work the <hi>Scorpion</hi>'s Overthrow;</l>
+               <l>And <hi>Leo</hi> with his cruel Paw</l>
+               <l>Did keep the other Signs in Awe;</l>
+               <l>But none ſo welcome to the Eye</l>
+               <l>As was <hi>Latona's Gemini.</hi>
+               </l>
+               <l>The <hi>Aſpests</hi> (with their frowning Faces)</l>
+               <l>Do borrow Vails from <hi>Virgin-Graces,</hi>
+               </l>
+               <l>Which they have ſet before their Eyes,</l>
+               <l>To Laugh at Men that's Weather-wiſe.</l>
+               <l>The <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> of the Royal Arms,</l>
+               <l>Did ſeaſt beholders with their Charms.</l>
+               <l>The <hi>Harp</hi> did Play, the <hi>Lyons</hi> Dance,</l>
+               <l>And ſnuff'd the Garland grew in <hi>France;</hi>
+               </l>
+               <l>The <hi>Sun</hi> his Chariot did prepare,</l>
+               <l>With Ruf<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Wig and Powder'd Hair;</l>
+               <l>And (Capering from the Barbers Pole)</l>
+               <l>Made all Inferiour Lights pay Tole:</l>
+               <l>At twelve a Clock he clear'd the Skies</l>
+               <l>To ſee another <hi>Phoebus</hi> Riſe.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>James</hi> the wonder of the <hi>Eye,</hi>
+               </l>
+               <l>(Whoſe Looks were deck'd with <hi>Majesty</hi>)</l>
+               <l>In the <hi>Horizon</hi> did appear,</l>
+               <l>With <hi>Jo Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ans,</hi> drawing near;</l>
+               <l>And 'ſcended up (without a Cloud)</l>
+               <l>The Crown of <hi>Englands</hi> Altitude.</l>
+            </lg>
+            <list>
+               <item>
+                  <hi>Marqueſſes in their Order,</hi>
+               </item>
+               <item>2 Haralds of Arms.</item>
+               <item>
+                  <hi>Dutcheſſes in their Order.</hi>
+               </item>
+               <item>
+                  <hi>Dukes in their Order.</hi>
+               </item>
+               <item>2 Provincial King of Arms.</item>
+               <item>
+                  <hi>The Lord Privy-Seal.</hi>
+               </item>
+               <item>
+                  <hi>The Lord Preſident of the</hi> Co.</item>
+               <item>
+                  <hi>The Lord Treaſurer.</hi>
+               </item>
+               <item>
+                  <hi>The Lord Arch-Biſhop of</hi> Yo.</item>
+               <item>
+                  <hi>The Lord Keeper.</hi>
+               </item>
+               <item>
+                  <hi>The Lord Arch-Biſhop of</hi> Ca.</item>
+               <item>
+                  <hi>Two Perſons repreſenting the Dukes of</hi> Aquitain <hi>and</hi> Normandy.</item>
+               <item>
+                  <hi>The Queens Vice Chamberlain</hi>
+               </item>
+               <item>2 <hi>Gentlemen-<g ref="char:V">Ʋ</g>ſhers.</hi>
+               </item>
+               <item>
+                  <hi>The Queens Ivory Rod.</hi>
+               </item>
+               <item>
+                  <hi>The Queens Scepter.</hi>
+               </item>
+               <item>
+                  <hi>The Queens Crown.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The <hi>QUEEN</hi>
+               </head>
+               <item>
+                  <hi>Aſſiſted by the Biſhop of</hi> Lon<g ref="char:EOLhyphen"/>don, <hi>and</hi> Wincheſter, <hi>under a Canopy, born by</hi> 16 Barons <hi>of the</hi> Cinque-Ports.</item>
+               <item>
+                  <hi>The Queens Train born up by the Young Dutcheſs of</hi> Nor<g ref="char:EOLhyphen"/>folk, <hi>aſſisted by Four Earls Daughters,</hi>
+               </item>
+               <item>2 <hi>Ladies of the Bed-Cham.</hi>
+               </item>
+               <item>2 <hi>Women of the Bed Chamber.</hi>
+               </item>
+               <item>
+                  <hi>St.</hi> Edward's <hi>Staff.</hi>
+               </item>
+               <item>
+                  <hi>The Spurs.</hi>
+               </item>
+               <item>
+                  <hi>St.</hi> Edward's <hi>Scepter.</hi>
+               </item>
+               <item>
+                  <hi>The Third Sword.</hi>
+               </item>
+               <item>Curtana, <hi>or Pointleſs Sword.</hi>
+               </item>
+               <item>
+                  <hi>Garter, Principal King of Arms.</hi>
+               </item>
+               <item>
+                  <hi>Gentleman-<g ref="char:V">Ʋ</g>ſher of the Black Rod.</hi>
+               </item>
+               <item>
+                  <hi>The Lord Mayor of</hi> London,</item>
+               <item>
+                  <hi>The Lord Great Chamberlain</hi>
+               </item>
+               <item>
+                  <hi>The Lord High Conſtable.</hi>
+               </item>
+               <item>
+                  <hi>The Sword of State.</hi>
+               </item>
+               <item>
+                  <hi>The Duke of</hi> Norfolk, <hi>Lord</hi>
+               </item>
+               <item>
+                  <hi>Earl Marſhall of</hi> England.</item>
+               <item>
+                  <hi>St.</hi> Edwards <hi>Crown.</hi>
+               </item>
+               <item>
+                  <hi>The Orb with the Croſs.</hi>
+               </item>
+               <item>
+                  <hi>The Scepter with the Dove.</hi>
+               </item>
+               <item>
+                  <hi>The</hi> Chalices.</item>
+            </list>
+            <list>
+               <head>The <hi>KING</hi>
+               </head>
+               <item>
+                  <hi>Aſſiſted by the Biſhop of</hi> Dur<g ref="char:EOLhyphen"/>ham <hi>and</hi> Bath <hi>under the Ca<g ref="char:EOLhyphen"/>nopy, born by</hi> 16 Barons <hi>of the</hi> Cinque-Ports.</item>
+               <item>
+                  <hi>His Majeſties Train, born by</hi> 4 <hi>Earls Eldeſt Sons, aſſisted by the Master of the Robes.</hi>
+               </item>
+               <item>
+                  <hi>The Duke of</hi> Northumberland</item>
+               <item>
+                  <hi>Captain of the Horſe-guards</hi>
+               </item>
+               <item>
+                  <hi>The Earl of</hi> Huntington, <hi>Cap<g ref="char:EOLhyphen"/>tain of the Band of Gentle<g ref="char:EOLhyphen"/>men Penſioners.</hi>
+               </item>
+               <item>
+                  <hi>The Vicount</hi> Grandiſon <hi>Cap<g ref="char:EOLhyphen"/>tain of the Yeomen.</hi>
+               </item>
+               <item>
+                  <hi>The Lord</hi> Churchil, <hi>Gentle<g ref="char:EOLhyphen"/>men of the Bedchamber.</hi>
+               </item>
+               <item>2 <hi>Groomes of the Bedchamber</hi>
+               </item>
+               <item>
+                  <hi>The Captain of the Horſe-Guards in waiting.</hi>
+               </item>
+               <item>
+                  <hi>Captain of the Penſioners.</hi>
+               </item>
+               <item>
+                  <hi>The Yeomen of the Guard clo<g ref="char:EOLhyphen"/>ſing the Proceeding.</hi>
+               </item>
+            </list>
+            <p>Thus their Majeſties in their Royal Robes, the <hi>King</hi> with a Velvet Cap, and the <hi>Queen</hi> a Circle of Gold on her Head: The Nobility in Robes of Crimſon Velvet, with their Cap and Coronets in their Hands; with others who formed the Proceeding in ſuitable Robes and Habit did walk a Foot on Blue-Cloth, from the Throne in <hi>Westmin<g ref="char:EOLhyphen"/>ster-Hall,</hi> to the <hi>Theatre</hi> in the Quire, and thence to St. <hi>Peter</hi>'s Church, which when they had entred, and all pre<g ref="char:EOLhyphen"/>ſent being duly Placed Their <hi>Majeſties</hi> Aſcended the Throne and (after their performing their private Devotians at the Eaſt end thereof) They ſeated themſelves in their Chairs of State, then followed the <hi>Recognition;</hi> and after an <hi>An<g ref="char:EOLhyphen"/>them</hi> Their <hi>Majesties</hi> went to the <hi>Altar,</hi> and made Their firſt <hi>Oblation;</hi> and the Lords who carried the <hi>Regalia,</hi> preſented them at the <hi>Altar,</hi> to be there laid down. Then the <hi>Litany</hi> being Sung, (by two Biſhops) the Biſhop of <hi>Ely</hi> began the Sermon: which ended, the <hi>King</hi> took the ac<g ref="char:EOLhyphen"/>cuſtomed Oath; and <hi>Veni Creator</hi> being Sung and the <hi>King</hi> diſrobed of his <hi>Mantle</hi> and Surcoat, was Anointed and Inveſted with all the Sacred Habits in King <hi>Edwards</hi> Chair. No ſooner was the Crown ſet on the <hi>King</hi>'s Head, (about three of the Clock in the Afternoon) but immediate<g ref="char:EOLhyphen"/>ly the People Shouted, the Great Guns were Diſcharged, and the <hi>Peers</hi> did put on their <hi>Coronets.</hi> The <hi>King</hi> thus being Crowned, and Inveſted with the <hi>Ring</hi> and <hi>Scepter,</hi> He made His ſecond <hi>Oblation;</hi> and being again Seated in King <hi>Edward</hi>'s Chair, He Vouchſafed to Kiſs the Arch-Biſhops; then <hi>Te deum</hi> being Sung. He Aſcended the Throne, where the ſaid Biſhops did their Homage and Kiſſed His Cheek, the Temporal Lords having done the ſame in like manner touch<g ref="char:EOLhyphen"/>ed His <hi>Crown,</hi> during which time, the Steward of the Houſe<g ref="char:EOLhyphen"/>hold threw about the <hi>Medals.</hi> Then afterwards the <hi>Queen</hi> being Crowned, in like manner the Ladies did put on their <hi>Coronets:</hi> And Her <hi>Majesty</hi> having Received the <hi>Scepter</hi> and <hi>Ivory Rod,</hi> was conducted to her <hi>Ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne.</hi>
+            </p>
+            <p>Thus Their <hi>Majeſties</hi> being Inthroned, after an <hi>Anthem</hi> Sung, the Archbiſhop ended with the <hi>Benediction,</hi> and Their <hi>Majesties</hi> went in State to St. <hi>Edwards</hi> Chappel where the <hi>King</hi> being deveſted of St. <hi>Edwards</hi> Robes, and arrayed in his Royal Robes of <hi>Purple-Velvet,</hi> the whole Company (except the Church of <hi>Westminster</hi>) returned to <hi>Westmin<g ref="char:EOLhyphen"/>ster-Hall;</hi> Their <hi>Majesties</hi> and all the Nobility wearing Their <hi>Coronets</hi> on their Heads; and being entred into the <hi>Hall,</hi> were Conducted to their ſeveral Tables to Dinner: The firſt Courſe for Their <hi>Majesties</hi> Table was ſerved up with the uſual Ceremony, the Lord High Steward betwixt The Lord High Conſtable and the Earl Marſhal Riding in before it, on Horſeback; and before the ſecond Courſe was ſerved up, Sir <hi>Charles Dymoke</hi> the <hi>Kings</hi> Champion, in compleat <hi>Armour,</hi> accompanied with the Lord High Con<g ref="char:EOLhyphen"/>ſtable, and Earl Marſhall, all on Horſeback, performed the uſual Ceremony of the Challenge; after which the Officers of Arms Proclaimed His <hi>Majesties</hi> Stile in <hi>Latin, French</hi> and <hi>Engliſh,</hi> after the accuſtomed Manner. Their <hi>Ma<g ref="char:EOLhyphen"/>jesties</hi> retired to <hi>White-Hall,</hi> and all the Nobility and others Departed.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>G. Croom,</hi> at the <hi>Blue-Ball</hi> In <hi>Thames-ſtreet,</hi> over againſt <hi>Baynard's Caſtle.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
